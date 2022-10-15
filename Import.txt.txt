@@ -1,1 +1,7 @@
 this is imported data and it's very important
+Welcome to git commands and it's importance.
+git commands like
+git push
+git init
+git pull
+git commmite
